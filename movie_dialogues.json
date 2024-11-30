@@ -105,6 +105,170 @@
         "I know kung fu.",
         "There is no spoon.",
         "Welcome to the desert of the real."
+    ],
+    "The Godfather": [
+        "I'm gonna make him an offer he can't refuse.",
+        "A man who doesn't spend time with his family can never be a real man.",
+        "Revenge is a dish best served cold."
+    ],
+    "Forrest Gump": [
+        "Life is like a box of chocolates. You never know what you're gonna get.",
+        "Stupid is as stupid does.",
+        "Run, Forrest, run!"
+    ],
+    "Star Wars: Episode IV - A New Hope": [
+        "May the Force be with you.",
+        "The Force will be with you, always.",
+        "I find your lack of faith disturbing."
+    ],
+    "The Avengers": [
+        "If we can't protect the Earth, you can be damn well sure we'll avenge it.",
+        "I have an army. We have a Hulk.",
+        "There’s only one God, ma’am, and I’m pretty sure he doesn’t dress like that."
+    ],
+    "The Lord of the Rings: The Fellowship of the Ring": [
+        "One does not simply walk into Mordor.",
+        "Even the smallest person can change the course of the future.",
+        "You shall not pass!"
+    ],
+    "Harry Potter and the Sorcerer's Stone": [
+        "It does not do to dwell on dreams and forget to live.",
+        "You're a wizard, Harry.",
+        "I can teach you how to bottle fame, brew glory, and even put a stopper in death."
+    ],
+    "Pirates of the Caribbean: The Curse of the Black Pearl": [
+        "But why is the rum gone?",
+        "This is the day you will always remember as the day you almost caught Captain Jack Sparrow.",
+        "The code is more what you'd call 'guidelines' than actual rules."
+    ],
+    "Gladiator": [
+        "Are you not entertained?",
+        "What we do in life echoes in eternity.",
+        "Strength and honor."
+    ],
+    "Titanic": [
+        "I'm the king of the world!",
+        "You jump, I jump, remember?",
+        "A woman's heart is a deep ocean of secrets."
+    ],
+    "Jurassic Park": [
+        "Life finds a way.",
+        "Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.",
+        "Welcome to Jurassic Park."
+    ],
+    "Iron Man": [
+        "I am Iron Man.",
+        "Sometimes you gotta run before you can walk.",
+        "I shouldn't be alive, unless it was for a reason."
+    ],
+    "The Incredible Hulk": [
+        "You wouldn't like me when I'm angry.",
+        "Hulk smash!",
+        "I'm always angry."
+    ],
+    "Iron Man 2": [
+        "I have successfully privatized world peace.",
+        "I am Iron Man. The suit and I are one.",
+        "It's good to be back."
+    ],
+    "Thor": [
+        "I am Thor, son of Odin!",
+        "Whoever holds this hammer, if they be worthy, shall possess the power of Thor.",
+        "This drink... I like it. Another!"
+    ],
+    "Captain America: The First Avenger": [
+        "I don't want to kill anyone. I don't like bullies; I don't care where they're from.",
+        "I'm just a kid from Brooklyn.",
+        "I'm with you till the end of the line."
+    ],
+    "The Avengers": [
+        "We have a Hulk.",
+        "If we can't protect the Earth, you can be damn sure we'll avenge it.",
+        "There's only one God, ma'am, and I'm pretty sure he doesn't dress like that."
+    ],
+    "Iron Man 3": [
+        "We create our own demons.",
+        "You can take away my house, all my tricks and toys. But one thing you can't take away—I am Iron Man.",
+        "Sometimes you have to run before you can walk."
+    ],
+    "Thor: The Dark World": [
+        "I would rather be a good man than a great king.",
+        "Trust my rage.",
+        "I gave you my word, I would protect Jane."
+    ],
+    "Captain America: The Winter Soldier": [
+        "On your left.",
+        "The price of freedom is high, but it's a price I'm willing to pay.",
+        "I'm with you till the end of the line."
+    ],
+    "Guardians of the Galaxy": [
+        "I am Groot.",
+        "We are Groot.",
+        "Dance-off, bro. Me and you."
+    ],
+    "Avengers: Age of Ultron": [
+        "I'm gonna show you something beautiful. Everyone screaming for mercy.",
+        "You didn't see that coming?",
+        "Every time someone tries to win a war before it starts, innocent people die."
+    ],
+    "Ant-Man": [
+        "I'm gonna be the hero my daughter already thinks I am.",
+        "One moment you're just some random guy, the next, you're a superhero.",
+        "I know a guy."
+    ],
+    "Captain America: Civil War": [
+        "I can do this all day.",
+        "Sometimes I just want to punch you in your perfect teeth.",
+        "An empire toppled by its enemies can rise again. But one which crumbles from within? That's dead. Forever."
+    ],
+    "Doctor Strange": [
+        "Dormammu, I've come to bargain.",
+        "It's not about you.",
+        "Forget everything you think you know."
+    ],
+    "Guardians of the Galaxy Vol. 2": [
+        "I'm Mary Poppins, y'all!",
+        "Sometimes, the thing you're searching for your whole life is right there by your side.",
+        "I am Groot."
+    ],
+    "Spider-Man: Homecoming": [
+        "With great power comes great responsibility.",
+        "If you're nothing without this suit, then you shouldn't have it.",
+        "This is my chance to prove myself."
+    ],
+    "Thor: Ragnarok": [
+        "We know each other! He's a friend from work!",
+        "Asgard is not a place. It's a people.",
+        "Piss off, ghost!"
+    ],
+    "Black Panther": [
+        "Wakanda forever!",
+        "The world is changing. Soon, there will only be the conquered and the conquerors.",
+        "I never freeze."
+    ],
+    "Avengers: Infinity War": [
+        "I am inevitable.",
+        "You should have gone for the head.",
+        "We're in the endgame now."
+    ],
+    "Avengers: Endgame": [
+        "I love you 3000.",
+        "Avengers, assemble!",
+        "Part of the journey is the end."
+    ],
+    "Spider-Man: Far From Home": [
+        "You can't be a friendly neighborhood Spider-Man if there's no neighborhood.",
+        "Uneasy lies the head that wears the crown.",
+        "The choice is yours, Spider-Man."
+    ],
+    "Shang-Chi and the Legend of the Ten Rings": [
+        "I know who I am.",
+        "If you aim at nothing, you hit nothing.",
+        "A blood debt has to be paid by blood."
+    ],
+    "Eternals": [
+        "When you love something, you protect it.",
+        "We have loved these people since the day we arrived.",
+        "This is just the beginning."
     ]
 }
-
